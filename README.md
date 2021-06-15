@@ -1,4 +1,7 @@
-### Hi there 👋
+### Would you like some sushi?
+
+- 🍣 [Shadertoy](https://www.shadertoy.com/user/newbie2718)
+- 🍵 [NEORT](https://neort.io/@5QRqr74IOwSKt3IyupOu4dHAaPm1)
 
 <!--
 **Sushiwave/Sushiwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
